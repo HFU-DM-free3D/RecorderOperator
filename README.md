@@ -110,4 +110,4 @@ The websocket server, Calibrator and the Operator Client are executed on another
 
 
 ## Sources
-Image of the Kinect from figure 1: https://pbs.twimg.com/media/EgOwJS6U8AAjqu5.png
+Image of the Kinect from figure 2: https://pbs.twimg.com/media/EgOwJS6U8AAjqu5.png
