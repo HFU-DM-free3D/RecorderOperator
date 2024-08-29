@@ -1,0 +1,3 @@
+[submodule "athaeck-websocket-vue3-extension"]
+	url = https://github.com/NickHaecker/athaeck-websocket-vue3-extension.git
+	path="athaeck-websocket-vue3-extension"
